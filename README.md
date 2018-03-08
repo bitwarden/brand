@@ -40,7 +40,7 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 - Warning: `#bf7e16`
 - Info: `#555555`
 
-## Font
+## Fonts
 
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - [Font Awesome Icons](https://fontawesome.com/v4.7.0/)
