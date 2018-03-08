@@ -16,7 +16,11 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ## Product Icon
 
-![Bitwarden Product Icon](/icons/256x256.png "Bitwarden Product Icon")
+![Bitwarden Product Icon 256](/icons/256x256.png "Bitwarden Product Icon 256")
+![Bitwarden Product Icon 128](/icons/128x128.png "Bitwarden Product Icon 128")
+![Bitwarden Product Icon 64](/icons/64x64.png "Bitwarden Product Icon 64")
+![Bitwarden Product Icon 32](/icons/32x32.png "Bitwarden Product Icon 32")
+![Bitwarden Product Icon 16](/icons/16x16.png "Bitwarden Product Icon 16")
 
 [View more sizes](/icons)
 
@@ -26,6 +30,7 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ## Color Palettes
 
+- Base: `#333333`
 - Primary: `#3c8dbc`
 - Primary Accent: `#286090`
 - Secondary: `#2c3e50`
