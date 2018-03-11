@@ -14,13 +14,23 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 [View more colors and sizes](/logos)
 
-## Product Icon
+## Product Icons
 
-![Bitwarden Product Icon 256](/icons/256x256.png "Bitwarden Product Icon 256")
-![Bitwarden Product Icon 128](/icons/128x128.png "Bitwarden Product Icon 128")
-![Bitwarden Product Icon 64](/icons/64x64.png "Bitwarden Product Icon 64")
-![Bitwarden Product Icon 32](/icons/32x32.png "Bitwarden Product Icon 32")
-![Bitwarden Product Icon 16](/icons/16x16.png "Bitwarden Product Icon 16")
+**Rounded**
+
+![Bitwarden Product Icon Rounded 256](/icons/256x256.png "Bitwarden Product Icon Rounded 256")
+![Bitwarden Product Icon Rounded 128](/icons/128x128.png "Bitwarden Product Icon Rounded 128")
+![Bitwarden Product Icon Rounded 64](/icons/64x64.png "Bitwarden Product Icon Rounded 64")
+![Bitwarden Product Icon Rounded 32](/icons/32x32.png "Bitwarden Product Icon Rounded 32")
+![Bitwarden Product Icon Rounded 16](/icons/16x16.png "Bitwarden Product Icon Rounded 16")
+
+**Square**
+
+![Bitwarden Product Icon Square 256](/icons/square-256x256.png "Bitwarden Product Icon Square 256")
+![Bitwarden Product Icon Square 128](/icons/square-128x128.png "Bitwarden Product Icon Square 128")
+![Bitwarden Product Icon Square 64](/icons/square-64x64.png "Bitwarden Product Icon Square 64")
+![Bitwarden Product Icon Square 32](/icons/square-32x32.png "Bitwarden Product Icon Square 32")
+![Bitwarden Product Icon Square 16](/icons/square-16x16.png "Bitwarden Product Icon Square 16")
 
 [View more sizes](/icons)
 
