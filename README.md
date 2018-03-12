@@ -54,3 +54,7 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - [Font Awesome Icons](https://fontawesome.com/v4.7.0/)
+
+## Other things to know
+
+- Capitalize the "B" in Bitwarden in all copy text. Bitwarden should only be presented in all lowercase when displayed in our official logos (see above).
