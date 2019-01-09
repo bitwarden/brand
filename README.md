@@ -58,3 +58,4 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 ## Other Things To Know
 
 - Capitalize the "B" in Bitwarden in all copy text. Bitwarden should only be presented in all lowercase when displayed in our official logos (see above).
+- The "W" in Bitwarden is never capitalized.
