@@ -32,6 +32,14 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 ![Bitwarden Product Icon Square 32](/icons/square-32x32.png "Bitwarden Product Icon Square 32")
 ![Bitwarden Product Icon Square 16](/icons/square-16x16.png "Bitwarden Product Icon Square 16")
 
+**Circle**
+
+![Bitwarden Product Icon Circle 256](/icons/circle-256x256.png "Bitwarden Product Icon Circle 256")
+![Bitwarden Product Icon Circle 128](/icons/circle-128x128.png "Bitwarden Product Icon Circle 128")
+![Bitwarden Product Icon Circle 64](/icons/circle-64x64.png "Bitwarden Product Icon Circle 64")
+![Bitwarden Product Icon Circle 32](/icons/circle-32x32.png "Bitwarden Product Icon Circle 32")
+![Bitwarden Product Icon Circle 16](/icons/circle-16x16.png "Bitwarden Product Icon Circle 16")
+
 [View more sizes](/icons)
 
 ## Product Screenshots
