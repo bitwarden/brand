@@ -62,4 +62,4 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ## Trademark Notice
 
-"Bitwarden" is a registered trademark of 8bit Solutions LLC.
+"Bitwarden" is a registered trademark of Bitwarden Inc.
