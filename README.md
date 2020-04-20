@@ -40,15 +40,18 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ## Color Palettes
 
-- Base: `#333333`
-- Primary: `#3c8dbc`
-- Primary Accent: `#286090`
-- Secondary: `#2c3e50`
-- Secondary Accent: `#222d32`
+BRAND COLORS
+- Primary Blue: `#175DDC`
+- Primary Accent Green: `#26FF75`
+- Secondary Medium Blue: `#1252A3`
+- Secondary Dark Blue: `#1A3B66`
+
+DOCUMENTATION COLORS
 - Success: `#00a65a`
 - Danger: `#dd4b39`
 - Warning: `#bf7e16`
 - Info: `#555555`
+- Text: `#000000`
 
 ## Fonts
 
@@ -62,4 +65,4 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ## Trademark Notice
 
-"Bitwarden" is a registered trademark of Bitwarden Inc.
+"Bitwarden" is a registered trademark of 8bit Solutions LLC, DBA Bitwarden.
