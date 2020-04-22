@@ -40,18 +40,20 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ## Color Palettes
 
-BRAND COLORS
+### Branding
+
 - Primary Blue: `#175DDC`
 - Primary Accent Green: `#26FF75`
 - Secondary Medium Blue: `#1252A3`
 - Secondary Dark Blue: `#1A3B66`
 
-DOCUMENTATION COLORS
+### Auxiliary
+
+- Text: `#000000`
 - Success: `#00a65a`
 - Danger: `#dd4b39`
 - Warning: `#bf7e16`
 - Info: `#555555`
-- Text: `#000000`
 
 ## Fonts
 
