@@ -42,10 +42,22 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ### Branding
 
-- Primary Blue: `#175DDC`
-- Primary Accent Green: `#26FF75`
-- Secondary Medium Blue: `#1252A3`
-- Secondary Dark Blue: `#1A3B66`
+Primary Blue  
+![Bitwarden Primary Blue](/brand-colors/primary-blue.png "Bitwarden Primary Blue")   
+ `#175DDC`
+ 
+Secondary Medium Blue  
+![Bitwarden Secondary Medium Blue](/brand-colors/secondary-blue.png "Bitwarden Secondary Medium Blue")      
+`#1252A3`
+ 
+ Secondary Dark Blue  
+![Bitwarden Secondary Dark Blue](/brand-colors/secondary-dark-blue.png "Bitwarden Secondary Dark Blue")      
+`#1A3B66`
+
+Accent Green  
+![Bitwarden Accent Green](/brand-colors/accent-green.png "Bitwarden Accent Green")      
+`#26FF75`
+
 
 ### Auxiliary
 
