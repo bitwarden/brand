@@ -11,8 +11,6 @@
 ![Bitwarden Product iPhones](/media-assets/Bitwarden-3-iphones.png.png)
 ![Bitwarden Product Androids](/media-assets/Bitwarden-2-androids.png)
 
-
-
 **Logos**
 
 ![Bitwarden Horizontal Logo](/media-assets/Bitwarden_logo_vertical_blue_RGB.png)
