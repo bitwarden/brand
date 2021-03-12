@@ -26,11 +26,11 @@
 
 ## Send Screenshots
 
-![Create Send in Browser Extension](/media-assets/send-create-browser-extension.png)
+![Create Send in Browser Extension](/media-assets/send/send-create-browser-extension.png)
 
-![View Send in Browser Extension](/media-assets/send-view-browser-extension.png)
+![View Send in Browser Extension](/media-assets/send/send-view-browser-extension.png)
 
-![Create Send in Mobile](/media-assets/send-create-mobile.png)
+![Create Send in Mobile](/media-assets/send/send-create-mobile.png)
 
-![View Send in Mobile](/media-assets/sent-view-mobile.png)
+![View Send in Mobile](/media-assets/send/sent-view-mobile.png)
 
