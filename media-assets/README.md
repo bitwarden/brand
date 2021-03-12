@@ -1,6 +1,6 @@
 # Bitwarden Media Assets
 
-**Product Mockups**
+## Product Mockups
 
 ![Bitwarden Product Laptop and iPhone](/media-assets/Bitwarden-laptop-iphone.png)
 
@@ -18,10 +18,19 @@
 
 ![Bitwarden Product Androids](/media-assets/Bitwarden-2-androids.png)
 
-**Logos**
+## Logos
 
-Vertical Logo
 ![Bitwarden Vertical Logo](/media-assets/Bitwarden_logo_vertical_blue_RGB.png)
 
-Horizontal Logo
 ![Bitwarden Horizontal Logo](/media-assets/Bitwarden_Identity_horizontal_Blue_RGB.png)
+
+## Send Screenshots
+
+![Create Send in Browser Extension](/media-assets/send-create-browser-extension.png)
+
+![View Send in Browser Extension](/media-assets/send-view-browser-extension.png)
+
+![Create Send in Mobile](/media-assets/send-create-mobile.png)
+
+![View Send in Mobile](/media-assets/sent-view-mobile.png)
+
