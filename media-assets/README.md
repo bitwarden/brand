@@ -32,5 +32,5 @@
 
 ![Create Send in Mobile](/media-assets/send/send-create-mobile.png)
 
-![View Send in Mobile](/media-assets/send/sent-view-mobile.png)
+![View Send in Mobile](/media-assets/send/send-view-mobile.png)
 
