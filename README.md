@@ -42,21 +42,21 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ### Branding
 
-Primary Blue  
-![Bitwarden Primary Blue](/brand-colors/primary-blue.png "Bitwarden Primary Blue")   
+Bitwarden Blue
+![Bitwarden Blue](/brand-colors/bitwarden-blue.png "Bitwarden Blue")   
  `#175DDC`
  
-Secondary Medium Blue  
-![Bitwarden Secondary Medium Blue](/brand-colors/secondary-blue.png "Bitwarden Secondary Medium Blue")      
-`#1252A3`
+Deep Blue  
+![Deep Blue](/brand-colors/deep-blue.png "Bitwarden Deep Blue")      
+`#1A41AC`
  
- Secondary Dark Blue  
-![Bitwarden Secondary Dark Blue](/brand-colors/secondary-dark-blue.png "Bitwarden Secondary Dark Blue")      
-`#1A3B66`
+Indigo Blue  
+![Bitwarden Secondary Dark Blue](/brand-colors/indigo-blue.png "Bitwarden Indigo Blue")      
+`#020F66`
 
-Accent Green  
-![Bitwarden Accent Green](/brand-colors/accent-green.png "Bitwarden Accent Green")      
-`#26FF75`
+Highlight Teal 
+![Bitwarden Accent Green](/brand-colors/highlight-teal.png "Bitwarden Highlight Teal")      
+`#2CDDE9`
 
 
 ### Auxiliary
@@ -70,12 +70,11 @@ Accent Green
 ## Fonts
 
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
-- [Font Awesome Icons](https://fontawesome.com/v4.7.0/)
 
 ## Other Things To Know
 
 - Capitalize the "B" in Bitwarden in all copy text. Bitwarden should only be presented in all lowercase when displayed in our official logos (see above).
-- The "W" in Bitwarden is never capitalized.
+- The "W" in Bitwarden is NEVER capitalized.
 
 ## Trademark Notice
 
