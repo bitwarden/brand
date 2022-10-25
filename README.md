@@ -46,16 +46,16 @@ Bitwarden Blue
 ![Bitwarden Blue](/brand-colors/bitwarden-blue.png "Bitwarden Blue")   
  `#175DDC`
  
-Deep Blue  
+Deep Blue
 ![Deep Blue](/brand-colors/deep-blue.png "Bitwarden Deep Blue")      
 `#1A41AC`
  
-Indigo Blue  
+Indigo Blue
 ![Bitwarden Secondary Dark Blue](/brand-colors/indigo-blue.png "Bitwarden Indigo Blue")      
 `#020F66`
 
-Highlight Teal 
-![Bitwarden Accent Green](/brand-colors/highlight-teal.png "Bitwarden Highlight Teal")      
+Highlight Teal
+![Bitwarden Highlight Teal](/brand-colors/highlight-teal.png "Bitwarden Highlight Teal")      
 `#2CDDE9`
 
 
@@ -74,7 +74,7 @@ Highlight Teal
 ## Other Things To Know
 
 - Capitalize the "B" in Bitwarden in all copy text. Bitwarden should only be presented in all lowercase when displayed in our official logos (see above).
-- The "W" in Bitwarden is NEVER capitalized.
+- The "W" in Bitwarden is NEVER capitalized.s
 
 ## Trademark Notice
 
