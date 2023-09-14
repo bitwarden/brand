@@ -2,6 +2,8 @@
 
 This repository contains resources for the Bitwarden brand such as logos, icons, screenshots, color palettes, and other media.
 
+**For more brand resources visit [bitwarden.com/brand](https://bitwarden.com/brand/)**
+
 ## Logos
 
 **Horizontal**
