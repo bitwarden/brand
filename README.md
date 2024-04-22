@@ -2,37 +2,39 @@
 
 This repository contains resources for the Bitwarden brand such as logos, icons, screenshots, color palettes, and other media.
 
+
+![Logo](/logos)
+![Icon](/icons)
+![Screenshots](/screenshots)
+![Shield](/shield)
+![Logos](/logos)
+
 **For more brand resources visit [bitwarden.com/brand](https://bitwarden.com/brand/)**
 
-## Logos
+## Logo
 
-**Horizontal**
+| Version | Preview |
+|---|---|
+| Default | ![Default](/logos/logo-horizontal-blue.svg) |  
+| Inverse | ![Inverse](/logos/logo-horizontal-white.svg) |
+| Black | ![Black](/logos/logo-horizontal.svg) |
 
-![Bitwarden Logo Horizontal](/logos/logo-horizontal.png "Bitwarden Logo Horizontal")
+## Product Icon
 
-**Vertical**
-
-![Bitwarden Logo Vertical](/logos/logo-vertical.png "Bitwarden Logo Vertical")
-
-[View more colors and sizes](/logos)
-
-## Product Icons
-
-**Rounded**
-
-![Bitwarden Product Icon Rounded 256](/icons/256x256.png "Bitwarden Product Icon Rounded 256")
-![Bitwarden Product Icon Rounded 128](/icons/128x128.png "Bitwarden Product Icon Rounded 128")
-![Bitwarden Product Icon Rounded 64](/icons/64x64.png "Bitwarden Product Icon Rounded 64")
-![Bitwarden Product Icon Rounded 32](/icons/32x32.png "Bitwarden Product Icon Rounded 32")
-![Bitwarden Product Icon Rounded 16](/icons/16x16.png "Bitwarden Product Icon Rounded 16")
-
-**Square**
-
-![Bitwarden Product Icon Square 256](/icons/square-256x256.png "Bitwarden Product Icon Square 256")
-![Bitwarden Product Icon Square 128](/icons/square-128x128.png "Bitwarden Product Icon Square 128")
-![Bitwarden Product Icon Square 64](/icons/square-64x64.png "Bitwarden Product Icon Square 64")
-![Bitwarden Product Icon Square 32](/icons/square-32x32.png "Bitwarden Product Icon Square 32")
-![Bitwarden Product Icon Square 16](/icons/square-16x16.png "Bitwarden Product Icon Square 16")
+| Version | Preview |
+|---|---|
+| Default (svg) | ![Default](/logos/icon.svg) |  
+| Inverse (svg) | ![Inverse](/logos/icon-inverse.svg) |
+| Rounded 256px (png) | ![Bitwarden Product Icon Rounded 256](/icons/256x256.png "Bitwarden Product Icon Rounded 256")  |
+| Rounded 128px (png) | ![Bitwarden Product Icon Rounded 128](/icons/128x128.png "Bitwarden Product Icon Rounded 128")  |
+| Rounded 64px (png) | ![Bitwarden Product Icon Rounded 64](/icons/64x64.png "Bitwarden Product Icon Rounded 64")  |
+| Rounded 32px (png) | ![Bitwarden Product Icon Rounded 32](/icons/32x32.png "Bitwarden Product Icon Rounded 32")  |
+| Rounded 16px (png) | ![Bitwarden Product Icon Rounded 16](/icons/16x16.png "Bitwarden Product Icon Rounded 16")  |
+| Square 256px (png) | ![Bitwarden Product Icon Square 256](/icons/square-256x256.png "Bitwarden Product Icon Square 256")  |
+| Square 128px (png) | ![Bitwarden Product Icon Square 128](/icons/square-128x128.png "Bitwarden Product Icon Square 128")  |
+| Square 64px (png) | ![Bitwarden Product Icon Square 64](/icons/square-64x64.png "Bitwarden Product Icon Square 64")  |
+| Square 32px (png) | ![Bitwarden Product Icon Square 32](/icons/square-32x32.png "Bitwarden Product Icon Square 32")  |
+| Square 16px (png) | ![Bitwarden Product Icon Square 16](/icons/square-16x16.png "Bitwarden Product Icon Square 16")  |
 
 [View more sizes](/icons)
 
@@ -44,34 +46,46 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ### Branding
 
-Bitwarden Blue   
-![Bitwarden Blue](/brand-colors/bitwarden-blue.png "Bitwarden Blue")   
- `#175DDC`
- 
-Deep Blue  
-![Deep Blue](/brand-colors/deep-blue.png "Bitwarden Deep Blue")      
-`#1A41AC`
- 
-Indigo Blue  
-![Bitwarden Secondary Dark Blue](/brand-colors/indigo-blue.png "Bitwarden Indigo Blue")      
-`#020F66`
+| Web Colors     | HEX value |
+|------------|-----------|
+| Primary Blue       | ![#175DDC](https://www.singlecolorimage.com/get/175DDC/32x32)  `#175DDC` |
+| Deep Blue     | ![#1A41AC](https://www.singlecolorimage.com/get/1A41AC/32x32) `#1A41AC` |
+| Indigo Blue     | ![#020F66](https://www.singlecolorimage.com/get/020F66/32x32) `#020F66` |
+| Accent Teal      | ![#2CDDE9](https://www.singlecolorimage.com/get/2CDDE9/32x32) `#2CDDE9` |
+| Accent Melon       | ![#FF4E63](https://www.singlecolorimage.com/get/FF4E63/32x32) `#FF4E63` |
+| Accent Yellow      | ![#FFBF00](https://www.singlecolorimage.com/get/FFBF00/32x32) `#FFBF00` |
+| Accent Purple      | ![#9D26FF](https://www.singlecolorimage.com/get/9D26FF/32x32) `#9D26FF` |
+| Accent Gray      | ![#F3F6F9](https://www.singlecolorimage.com/get/F3F6F9/32x32) `#F3F6F9` |
+| Accent Black      | ![#000000](https://www.singlecolorimage.com/get/000000/32x32) `#000000` |
+| Accent White      | ![#FFFFFF](https://www.singlecolorimage.com/get/FFFFFF/32x32) `#FFFFFF` |
 
-Highlight Teal   
-![Bitwarden Accent Green](/brand-colors/highlight-teal.png "Bitwarden Highlight Teal")      
-`#2CDDE9`
+| Grayscale     | HEX value |
+|------------|-----------|
+| Deep Dark Gray       | ![#282A31](https://www.singlecolorimage.com/get/282A31/32x32)  `#282A31` |
+| Dark Gray     | ![#6E7881](https://www.singlecolorimage.com/get/6E7881/32x32) `#6E7881` |
+| Deep Medium Gray     | ![#939DA7](https://www.singlecolorimage.com/get/939DA7/32x32) `#939DA7` |
+| Medium Gray      | ![#ABB4BD](https://www.singlecolorimage.com/get/ABB4BD/32x32) `#ABB4BD` |
+| Light Gray       | ![#CFD4DA](https://www.singlecolorimage.com/get/CFD4DA/32x32) `#CFD4DA` |
+| Lightest Gray      | ![#E6EBEF](https://www.singlecolorimage.com/get/E6EBEF/32x32) `#E6EBEF` |
 
+| Product Colors    | HEX value |
+|------------|-----------|
+| Text       | ![#000000](https://www.singlecolorimage.com/get/000000/32x32)  `#000000` |
+| Success     | ![#57C86B](https://www.singlecolorimage.com/get/57C86B/32x32) `#57C86B` |
+| Danger     | ![#E5544A](https://www.singlecolorimage.com/get/E5544A/32x32) `#E5544A` |
+| Warning      | ![#E8BF31](https://www.singlecolorimage.com/get/E8BF31/32x32) `#E8BF31` |
+| Info       | ![#63A2FD](https://www.singlecolorimage.com/get/63A2FD/32x32) `#63A2FD` |
+| Background      | ![#F3F6F9](https://www.singlecolorimage.com/get/F3F6F9/32x32) `#F3F6F9` |
 
-### Auxiliary
-
-- Text: `#000000`
-- Success: `#00a65a`
-- Danger: `#dd4b39`
-- Warning: `#bf7e16`
-- Info: `#555555`
+[Download color codes](/brand-colors/pallette.scss)
 
 ## Fonts
 
-- [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+| Use Case  | Link |  Weights  |
+|---|---|---|
+| Product use  |  [Open Sans](https://fonts.google.com/specimen/Open+Sans)  | 400 (normal), 500 (medium), 700 (bold) |
+| Website use  |  [DM Sans](https://fonts.google.com/specimen/DM+Sans)  | 400 (normal), 500 (medium), 700 (bold) |
+
 
 ## Other Things To Know
 
