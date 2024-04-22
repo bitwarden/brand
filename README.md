@@ -3,11 +3,11 @@
 This repository contains resources for the Bitwarden brand such as logos, icons, screenshots, color palettes, and other media.
 
 
-- ![Logo](/logos)
-- ![Icon](/icons)
-- ![Screenshots](/screenshots)
-- ![Shield](/shield)
-- ![Logos](/logos)
+- [Logo](/logos)
+- [Icon](/icons)
+- [Screenshots](/screenshots)
+- [Shield](/shield)
+- [Logos](/logos)
 
 **For more brand resources visit [bitwarden.com/brand](https://bitwarden.com/brand/)**
 
