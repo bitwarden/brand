@@ -7,7 +7,6 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 - [Icon](/icons)
 - [Screenshots](/screenshots)
 - [Shield](/shield)
-- [Logos](/logos)
 
 **For more brand resources visit [bitwarden.com/brand](https://bitwarden.com/brand/)**
 
@@ -40,7 +39,7 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ## Product Screenshots
 
-![Default](/screenshots/apps-combo-logo.png)
+![Bitwarden App Screenshot](/screenshots/apps-combo.png)
 
 [View all product screenshots](/screenshots)
 
