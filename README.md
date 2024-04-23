@@ -77,6 +77,7 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 | Info       | ![#63A2FD](https://www.singlecolorimage.com/get/63A2FD/32x32) |    `#63A2FD` |
 | Background      | ![#F3F6F9](https://www.singlecolorimage.com/get/F3F6F9/32x32) |    `#F3F6F9` |
 
+
 [Download color codes](/brand-colors/pallette.scss)
 
 ## Fonts
