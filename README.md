@@ -16,7 +16,6 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 |---|---|
 | Default | ![Default](/logos/logo-horizontal-blue.svg) |  
 | Inverse | ![Inverse](/logos/logo-horizontal-white.svg) |
-| Black | ![Black](/logos/logo-horizontal.svg) |
 
 ## Product Icon
 
