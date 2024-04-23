@@ -1,0 +1,49 @@
+/* CSS HEX */
+--primary-blue: #175ddcff;
+--deep-blue: #1a41acff;
+--indigo-blue: #020f66ff;
+--accent-teal: #2cdde9ff;
+--bitwarden-gray: #f3f6f9ff;
+--accent-melon: #ff4e63ff;
+--accent-yellow: #ffbf00ff;
+--accent-purple: #9d26ffff;
+
+/* CSS HSL */
+--primary-blue: hsla(219, 81%, 48%, 1);
+--deep-blue: hsla(224, 74%, 39%, 1);
+--indigo-blue: hsla(232, 96%, 20%, 1);
+--accent-teal: hsla(184, 81%, 54%, 1);
+--bitwarden-gray: hsla(210, 33%, 96%, 1);
+--accent-melon: hsla(353, 100%, 65%, 1);
+--accent-yellow: hsla(45, 100%, 50%, 1);
+--accent-purple: hsla(273, 100%, 57%, 1);
+
+/* SCSS HEX */
+$primary-blue: #175ddcff;
+$deep-blue: #1a41acff;
+$indigo-blue: #020f66ff;
+$accent-teal: #2cdde9ff;
+$bitwarden-gray: #f3f6f9ff;
+$accent-melon: #ff4e63ff;
+$accent-yellow: #ffbf00ff;
+$accent-purple: #9d26ffff;
+
+/* SCSS HSL */
+$primary-blue: hsla(219, 81%, 48%, 1);
+$deep-blue: hsla(224, 74%, 39%, 1);
+$indigo-blue: hsla(232, 96%, 20%, 1);
+$accent-teal: hsla(184, 81%, 54%, 1);
+$bitwarden-gray: hsla(210, 33%, 96%, 1);
+$accent-melon: hsla(353, 100%, 65%, 1);
+$accent-yellow: hsla(45, 100%, 50%, 1);
+$accent-purple: hsla(273, 100%, 57%, 1);
+
+/* SCSS RGB */
+$primary-blue: rgba(23, 93, 220, 1);
+$deep-blue: rgba(26, 65, 172, 1);
+$indigo-blue: rgba(2, 15, 102, 1);
+$accent-teal: rgba(44, 221, 233, 1);
+$bitwarden-gray: rgba(243, 246, 249, 1);
+$accent-melon: rgba(255, 78, 99, 1);
+$accent-yellow: rgba(255, 191, 0, 1);
+$accent-purple: rgba(157, 38, 255, 1);
