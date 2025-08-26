@@ -78,14 +78,15 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 | Background      | ![#F3F6F9](https://www.singlecolorimage.com/get/F3F6F9/32x32) |    `#F3F6F9` |
 
 
-[Download color codes](/brand-colors/pallette.scss)
+[Download color codes](/brand-colors/palette.scss)
 
 ## Fonts
 
 | Use Case  | Link |  Weights  |
 |---|---|---|
 | Product use  |  [Open Sans](https://fonts.google.com/specimen/Open+Sans)  | 400 (normal), 500 (medium), 700 (bold) |
-| Website use  |  [DM Sans](https://fonts.google.com/specimen/DM+Sans)  | 400 (normal), 500 (medium), 700 (bold) |
+| Website use (headlines)  |  [Montserrat](https://fonts.google.com/specimen/Montserrat)  | 300 (light), 400 (regular), 500 (medium) |
+| Website use (body)  |  [Roboto](https://fonts.google.com/specimen/Roboto)  | 400 (regular), 500 (medium) |
 
 
 ## Other Things To Know
