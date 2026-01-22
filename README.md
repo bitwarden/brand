@@ -2,13 +2,12 @@
 
 This repository contains resources for the Bitwarden brand such as logos, icons, screenshots, color palettes, and other media.
 
-
 - [Logo](/logos)
 - [Icon](/icons)
 - [Screenshots](/screenshots)
 - [Shield](/shield)
 
-**For more brand resources visit [bitwarden.com/brand](https://bitwarden.com/brand/)**
+**For more brand resources visit [bitwarden.com/brand](https://bitwarden.com/brand/).**
 
 ## Logo
 
@@ -49,34 +48,16 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 | Web Colors   | Color  | HEX value |
 |------------|-----------|-----------|
 | Primary Blue       | ![#175DDC](https://www.singlecolorimage.com/get/175DDC/32x32) |   `#175DDC` |
-| Deep Blue     | ![#1A41AC](https://www.singlecolorimage.com/get/1A41AC/32x32) |  `#1A41AC` |
-| Indigo Blue     | ![#020F66](https://www.singlecolorimage.com/get/020F66/32x32) |  `#020F66` |
-| Accent Teal      | ![#2CDDE9](https://www.singlecolorimage.com/get/2CDDE9/32x32) |  `#2CDDE9` |
-| Accent Melon       | ![#FF4E63](https://www.singlecolorimage.com/get/FF4E63/32x32) |  `#FF4E63` |
-| Accent Yellow      | ![#FFBF00](https://www.singlecolorimage.com/get/FFBF00/32x32) |  `#FFBF00` |
-| Accent Purple      | ![#9D26FF](https://www.singlecolorimage.com/get/9D26FF/32x32) |  `#9D26FF` |
-| Accent Gray      | ![#F3F6F9](https://www.singlecolorimage.com/get/F3F6F9/32x32) |  `#F3F6F9` |
-| Accent Black      | ![#000000](https://www.singlecolorimage.com/get/000000/32x32) |  `#000000` |
-| Accent White      | ![#FFFFFF](https://www.singlecolorimage.com/get/FFFFFF/32x32) |  `#FFFFFF` |
-
-| Grayscale   |   Color  | HEX value |
-|------------|-----------|-----------|
-| Deep Dark Gray       | ![#282A31](https://www.singlecolorimage.com/get/282A31/32x32) |     `#282A31` |
-| Dark Gray     | ![#6E7881](https://www.singlecolorimage.com/get/6E7881/32x32) |    `#6E7881` |
-| Deep Medium Gray     | ![#939DA7](https://www.singlecolorimage.com/get/939DA7/32x32) |    `#939DA7` |
-| Medium Gray      | ![#ABB4BD](https://www.singlecolorimage.com/get/ABB4BD/32x32) |    `#ABB4BD` |
-| Light Gray       | ![#CFD4DA](https://www.singlecolorimage.com/get/CFD4DA/32x32) |   `#CFD4DA` |
-| Lightest Gray      | ![#E6EBEF](https://www.singlecolorimage.com/get/E6EBEF/32x32) |    `#E6EBEF` |
-
-| Product Colors   |   Color  | HEX value |
-|------------|-----------|-----------|
-| Text       | ![#000000](https://www.singlecolorimage.com/get/000000/32x32) |     `#000000` |
-| Success     | ![#57C86B](https://www.singlecolorimage.com/get/57C86B/32x32) |    `#57C86B` |
-| Danger     | ![#E5544A](https://www.singlecolorimage.com/get/E5544A/32x32) |    `#E5544A` |
-| Warning      | ![#E8BF31](https://www.singlecolorimage.com/get/E8BF31/32x32) |    `#E8BF31` |
-| Info       | ![#63A2FD](https://www.singlecolorimage.com/get/63A2FD/32x32) |    `#63A2FD` |
-| Background      | ![#F3F6F9](https://www.singlecolorimage.com/get/F3F6F9/32x32) |    `#F3F6F9` |
-
+| Deep Blue     | ![#0C3276](https://www.singlecolorimage.com/get/0C3276/32x32) |  `#0C3276` |
+| Off White     | ![#F3F6F9](https://www.singlecolorimage.com/get/F3F6F9/32x32) |  `#F3F6F9` |
+| True White      | ![#FFFFFF](https://www.singlecolorimage.com/get/FFFFFF/32x32) |  `#FFFFFF` |
+| True Black       | ![#000000](https://www.singlecolorimage.com/get/000000/32x32) |  `#000000` |
+| Light Grey      | ![#D8E2EB](https://www.singlecolorimage.com/get/D8E2EB/32x32) |  `#D8E2EB` |
+| Teal Highlight      | ![#2CDDE9](https://www.singlecolorimage.com/get/2CDDE9/32x32) |  `#2CDDE9` |
+| Light Teal Highlight      | ![#A2F4FD](https://www.singlecolorimage.com/get/A2F4FD/32x32) |  `#2CDDE9` |
+| Tertiary Green      | ![#7BF1A8](https://www.singlecolorimage.com/get/7BF1A8/32x32) |  `#7BF1A8` |
+| Tertiary Yellow      | ![#FDC700](https://www.singlecolorimage.com/get/FDC700/32x32) |  `#FDC700` |
+| Tertiary Red      | ![#FF6550](https://www.singlecolorimage.com/get/FF6550/32x32) |  `#FF6550` |
 
 [Download color codes](/brand-colors/palette.scss)
 
@@ -84,10 +65,8 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 | Use Case  | Link |  Weights  |
 |---|---|---|
-| Product use  |  [Open Sans](https://fonts.google.com/specimen/Open+Sans)  | 400 (normal), 500 (medium), 700 (bold) |
-| Website use (headlines)  |  [Montserrat](https://fonts.google.com/specimen/Montserrat)  | 300 (light), 400 (regular), 500 (medium) |
-| Website use (body)  |  [Roboto](https://fonts.google.com/specimen/Roboto)  | 400 (regular), 500 (medium) |
-
+| Product use  |  [Inter](https://fonts.google.com/specimen/inter)  | 300 (light), 400 (regular), 500 (medium), 600 (semi-bold), 700 (bold) |
+| Website use  |  [Inter](https://fonts.google.com/specimen/inter)  | 300 (light), 400 (regular), 500 (medium), 600 (semi-bold), 700 (bold) |
 
 ## Other Things To Know
 

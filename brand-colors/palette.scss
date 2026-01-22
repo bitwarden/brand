@@ -1,49 +1,61 @@
 /* CSS HEX */
---primary-blue: #175ddcff;
---deep-blue: #1a41acff;
---indigo-blue: #020f66ff;
---accent-teal: #2cdde9ff;
---bitwarden-gray: #f3f6f9ff;
---accent-melon: #ff4e63ff;
---accent-yellow: #ffbf00ff;
---accent-purple: #9d26ffff;
+--bitwarden-blue: #175DDC;
+--deep-blue: #0C3276;
+--off-white: #F3F6F9;
+--true-white: #FFFFFF;
+--true-black: #000000;
+--light-grey: #D8E2EB;
+--teal-highlight: #2CDDE9;
+--light-teal-highlight: #A2F4FD;
+--tertiary-green: #7BF1A8;
+--tertiary-yellow: #FDC700;
+--tertiary-red: #FF6550;
 
 /* CSS HSL */
---primary-blue: hsla(219, 81%, 48%, 1);
---deep-blue: hsla(224, 74%, 39%, 1);
---indigo-blue: hsla(232, 96%, 20%, 1);
---accent-teal: hsla(184, 81%, 54%, 1);
---bitwarden-gray: hsla(210, 33%, 96%, 1);
---accent-melon: hsla(353, 100%, 65%, 1);
---accent-yellow: hsla(45, 100%, 50%, 1);
---accent-purple: hsla(273, 100%, 57%, 1);
+--bitwarden-blue: hsla(219, 81%, 48%, 1);
+--deep-blue: hsla(219, 81%, 25%, 1);
+--off-white: hsla(210, 33%, 96%, 1);
+--true-white: hsla(0, 0%, 100%, 1);
+--true-black: hsla(0, 0%, 0%, 1);
+--teal-highlight: hsla(184, 81%, 54%, 1);
+--light-teal-highlight: hsla(187, 96%, 81%, 1);
+--tertiary-green: hsla(143, 80%, 71%, 1);
+--tertiary-yellow: hsla(47, 100%, 50%, 1);
+--tertiary-green: hsla(143, 80%, 71%, 1);
+--tertiary-red: hsla((5, 100%, 66%, 1);
 
 /* SCSS HEX */
-$primary-blue: #175ddcff;
-$deep-blue: #1a41acff;
-$indigo-blue: #020f66ff;
-$accent-teal: #2cdde9ff;
-$bitwarden-gray: #f3f6f9ff;
-$accent-melon: #ff4e63ff;
-$accent-yellow: #ffbf00ff;
-$accent-purple: #9d26ffff;
+$bitwarden-blue: #175DDC;
+$deep-blue: #0C3276;
+$off-white: #F3F6F9;
+$true-white: #FFFFFF;
+$true-black: #000000;
+$light-grey: #D8E2EB;
+$teal-highlight: #2CDDE9;
+$light-teal-highlight: #A2F4FD;
+$tertiary-green: #7BF1A8;
+$tertiary-yellow: #FDC700;
+$tertiary-red: #FF6550;
 
 /* SCSS HSL */
-$primary-blue: hsla(219, 81%, 48%, 1);
-$deep-blue: hsla(224, 74%, 39%, 1);
-$indigo-blue: hsla(232, 96%, 20%, 1);
-$accent-teal: hsla(184, 81%, 54%, 1);
-$bitwarden-gray: hsla(210, 33%, 96%, 1);
-$accent-melon: hsla(353, 100%, 65%, 1);
-$accent-yellow: hsla(45, 100%, 50%, 1);
-$accent-purple: hsla(273, 100%, 57%, 1);
+$bitwarden-blue: hsla(219, 81%, 48%, 1);
+$deep-blue: hsla(219, 81%, 25%, 1);
+$off-white: hsla(210, 33%, 96%, 1);
+$true-white: hsla(0, 0%, 100%, 1);
+$true-black: hsla(0, 0%, 0%, 1);
+$teal-highlight: hsla(184, 81%, 54%, 1);
+$light-teal-highlight: hsla(187, 96%, 81%, 1);
+$tertiary-green: hsla(143, 80%, 71%, 1);
+$tertiary-yellow: hsla(47, 100%, 50%, 1);
+$tertiary-red: hsla(5, 100%, 66%, 1);
 
 /* SCSS RGB */
-$primary-blue: rgba(23, 93, 220, 1);
-$deep-blue: rgba(26, 65, 172, 1);
-$indigo-blue: rgba(2, 15, 102, 1);
-$accent-teal: rgba(44, 221, 233, 1);
-$bitwarden-gray: rgba(243, 246, 249, 1);
-$accent-melon: rgba(255, 78, 99, 1);
-$accent-yellow: rgba(255, 191, 0, 1);
-$accent-purple: rgba(157, 38, 255, 1);
+$bitwarden-blue: rgba(23, 93, 220, 1);
+$deep-blue: rgba(12, 50, 118, 1);
+$off-white: rgba(243, 246, 249, 1);
+$true-black: rgba(0, 0, 0, 1);
+$teal-highlight: rgba(44, 221, 233, 1);
+$light-teal-highlight: rgba(162, 244, 253, 1);
+$tertiary-green: rgba(123, 241, 168, 1);
+$tertiary-yellow: rgba(253, 199, 0, 1);
+$tertiary-red: hsla(255, 101, 80, 1);
